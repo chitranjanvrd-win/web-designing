@@ -2,6 +2,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +11,6 @@
 <body>
     <h1 align="center">Course Curriculum</h1>
     <h3 align="center"><u>Department of Computer Science</u></h3>
-
     <h2>Introduction</h2>
     <p>
         Welcome to the <b>course curriculum</b>. This page demonstrate
@@ -18,7 +18,7 @@
         &copy;, &lt;, &gt;.
     </p>
 
-    <h3>semester 1 subjects(ordered lists)</h3>
+ <h3>semester 1 subjects(ordered lists)</h3>
     <ol type="A">
         <li>Mathematics</li>
         <li>computer fundamentals</li>
@@ -26,7 +26,7 @@
         <li>Electronics basics</li>
     </ol>
 
-    <h2>Programming languages(unordered lists)</h2>
+ <h2>Programming languages(unordered lists)</h2>
     <ul type="square">
         <li>Python</li>
         <li>Java</li>
@@ -34,7 +34,7 @@
         <li>JavaScript</li>
     </ul>
 
-    <h2>Course description(description lists)</h2>
+ <h2>Course description(description lists)</h2>
     <dl>
         <dt>C programming</dt>
         <dd>Learning the basics of c language
@@ -43,7 +43,7 @@
         <dd>Introduction to object-oriented programming concepts.</dd>
     </dl>
 
-    <h2>Course Module(nested lists)</h2>
+ <h2>Course Module(nested lists)</h2>
     <ol>
         <li>Module 1:basics
             <ul>
@@ -59,7 +59,7 @@
         </li>
     </ol>
 
-    <h2>Project work</h2>
+ <h2>Project work</h2>
     <ul type="circle">
         <li>Web development
             <ol>
@@ -77,4 +77,6 @@
     </ul>
 </body>
 </html>
+
+
 
